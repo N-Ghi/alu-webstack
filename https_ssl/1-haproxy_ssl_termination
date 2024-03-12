@@ -47,5 +47,5 @@ frontend clickviral-frontend-https
 
 backend clickviral-backend
         balance roundrobin
-        server 5945-web-01 3.95.60.140:80 check
-        server 5945-web-02 54.226.14.85:80 check
+        server 5945-web-01 34.228.160.128:80 check
+        server 5945-web-02 54.90.246.150:80 check
